@@ -1,0 +1,13 @@
+.country {
+  border: 2px solid skyblue;
+  margin: 15px;
+  padding: 10px;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+.capital {
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
