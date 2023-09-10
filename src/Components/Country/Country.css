@@ -4,10 +4,19 @@
   padding: 10px;
   padding: 8px;
   border-radius: 20px;
+  width: 250px;
+  height: 350px;
 }
 
-.capital {
-  justify-content: center;
-  display: flex;
-  gap: 20px;
+
+.country img {
+  width: 250px;
+}
+
+.visited {
+  background-color: chartreuse;
+}
+
+.flag-container img {
+  width: 50px;
 }
